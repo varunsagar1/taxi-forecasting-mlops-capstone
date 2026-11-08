@@ -1,0 +1,1 @@
+{"features": ["hour", "dow", "month", "is_weekend", "is_holiday", "lag_1", "lag_24", "lag_168", "roll_24", "boro_Manhattan", "boro_Queens"], "model": "lgbm", "pickup_col": "tpep_pickup_datetime"}
