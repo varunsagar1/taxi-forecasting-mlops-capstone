@@ -1,0 +1,16 @@
+{
+  "subgroup": "borough (PROVISIONAL -- confirm against the Oct 18 brief)",
+  "per_borough_rmse_before": {
+    "Manhattan": 29.9,
+    "Queens": 43.056
+  },
+  "gap_before": 13.156,
+  "mitigation": "inverse-sqrt-frequency sample weighting, retrained best model",
+  "per_borough_rmse_after": {
+    "Manhattan": 29.867,
+    "Queens": 43.192
+  },
+  "gap_after": 13.325,
+  "gap_delta": 0.168,
+  "overall_rmse_after": 31.436
+}
